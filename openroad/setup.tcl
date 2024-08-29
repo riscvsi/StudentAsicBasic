@@ -1,0 +1,8 @@
+set  designName  "gcd" 
+set  RTLFile  "../yosys/gcd.synth.v" 
+set  sdcFile  "../yosys/gcd.sdc" 
+set  effort  "medium" 
+set  libFiles  "./sky130_fd_sc_hd__tt_025C_1v80.lib" 
+set  libMinFiles  "./sky130_fd_sc_hd__tt_025C_1v80.lib" 
+set  lefFiles  "./sky130_fd_sc_hd_merged.lef" 
+set  techFiles  "./sky130_fd_sc_hd.tlef"
